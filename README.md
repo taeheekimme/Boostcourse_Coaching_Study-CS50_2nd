@@ -74,8 +74,6 @@
 - 파일 쓰기 : scanf, fopen, fprintf, fclose
 - 파일 읽기 : JPEG, fread
 
-
-- 파일 읽기
 ### 6주차 자료구조
 - malloc과 포인터 복습
 - 배열의 크기 조정하기
